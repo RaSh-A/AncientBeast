@@ -353,7 +353,7 @@ class CreatureVignette extends Vignette {
 				<div class="frame"></div>
 				<div class="overlay_frame"></div>
 				<div class="delay_frame"></div>
-				<div class="stats"></div>
+				<div class="stats">${c.name}</div>
 			</div>`;
 	}
 
